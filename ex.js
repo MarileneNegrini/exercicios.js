@@ -38,3 +38,46 @@
 //         console.log("Reprovado/a!")
 //     }
 
+// atividade intermediária (fiz consultando o gemini)
+// const num1 = parseInt(prompt("Digite o primeiro número:"));
+// const num2 = parseInt(prompt("Digite o segundo número:"));
+// const operacao = prompt("Digite a operação (+, -, *, /):");
+
+
+// let resultado;
+// switch (operacao) {
+//   case "+":
+//     resultado = num1 + num2;
+//     console.log(resultado)
+//     break;
+//   case "-":
+//     resultado = num1 - num2;
+//     console.log(resultado)
+//     break;
+//   case "*":
+//     resultado = num1 * num2;
+//     console.log(resultado)
+//     break;
+//   case "/":
+//     resultado = num1 / num2;
+//     console.log(resultado)
+//     break;
+//   default:
+//     console.log("Operação inválida");
+// }
+
+//atividade 2 intermediario (fiz com apoio do Gemini)
+
+// const num1 = parseInt(prompt("Digite o primeiro número:"));
+// const num2 = parseInt(prompt("Digite o segundo número:"));
+// const num3 = parseInt(prompt("Digite o terceiro número:"));
+
+// let maior;
+
+// if (num1 >= num2 && num1 >= num3) {
+//     console.log(maior = num1);
+// } else if (num2 >= num1 && num2 >= num3) {
+//     console.log(maior = num2);
+// } else {
+//     console.log(maior = num3);
+// }
